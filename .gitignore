@@ -1,0 +1,6 @@
+/build
+/src/.vscode
+/src/sensors/data
+/src/quiz/cluster/.vscode
+/src/quiz/ransac/.vscode
+/.vscode
